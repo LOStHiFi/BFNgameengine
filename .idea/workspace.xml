@@ -15,12 +15,8 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8821e37f-de0b-428d-8bed-1b8ddce4c9b4" name="变更" comment="First Push">
-      <change afterPath="$PROJECT_DIR$/src/engine/frame/Entity.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/engine/frame/System.rs" afterDir="false" />
+    <list default="true" id="8821e37f-de0b-428d-8bed-1b8ddce4c9b4" name="变更" comment="LP's Code 1st Push">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,11 +37,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -68,25 +64,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;org.rust.cargo.project.model.PROJECT_DISCOVERY&quot;: &quot;true&quot;,
-    &quot;org.rust.disableDetachedFileInspectionC:/Users/13553/Documents/Code/BFNgameengine/src/engine/frame/Entity.rs&quot;: &quot;true&quot;,
-    &quot;org.rust.disableDetachedFileInspectionC:/Users/13553/Documents/Code/BFNgameengine/src/engine/frame/System.rs&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.disableDetachedFileInspectionC:/Users/13553/Documents/Code/BFNgameengine/src/engine/frame/Entity.rs": "true",
+    "org.rust.disableDetachedFileInspectionC:/Users/13553/Documents/Code/BFNgameengine/src/engine/frame/System.rs": "true",
+    "org.rust.disableDetachedFileInspectionC:/Users/13553/Documents/Code/BFNgameengine/src/engine/frame/component.rs": "true",
+    "org.rust.disableDetachedFileInspectionC:/Users/13553/Documents/Code/BFNgameengine/src/engine/frame/entity.rs": "true",
+    "org.rust.disableDetachedFileInspectionC:/Users/13553/Documents/Code/BFNgameengine/src/engine/frame/mod.rs": "true",
+    "org.rust.disableDetachedFileInspectionC:/Users/13553/Documents/Code/BFNgameengine/src/engine/frame/system.rs": "true",
+    "org.rust.disableDetachedFileInspectionC:/Users/13553/Documents/Code/BFNgameengine/src/engine/frame/world.rs": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
       <option name="command" value="run --package BFNgameengine --bin BFNgameengine" />
@@ -122,6 +126,12 @@
       <workItem from="1679101140280" duration="138000" />
       <workItem from="1679117500424" duration="596000" />
       <workItem from="1679129561132" duration="3421000" />
+      <workItem from="1679498909729" duration="1219000" />
+      <workItem from="1679549682584" duration="1132000" />
+      <workItem from="1679713304415" duration="1950000" />
+      <workItem from="1680427935879" duration="75000" />
+      <workItem from="1680428726913" duration="49000" />
+      <workItem from="1680428801456" duration="55000" />
     </task>
     <task id="LOCAL-00001" summary="First Push">
       <created>1678956946937</created>
@@ -130,7 +140,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678956946937</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="LP's Code 1st Push 3/21 19:48">
+      <created>1679399536289</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679399536289</updated>
+    </task>
+    <task id="LOCAL-00003" summary="LP's Code 1st Push">
+      <created>1679399885142</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679399885142</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +185,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Push" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Push" />
+    <MESSAGE value="LP's Code 1st Push 3/21 19:48" />
+    <MESSAGE value="LP's Code 1st Push 3/21 19:58" />
+    <MESSAGE value="LP's Code 1st Push" />
+    <option name="LAST_COMMIT_MESSAGE" value="LP's Code 1st Push" />
   </component>
 </project>
